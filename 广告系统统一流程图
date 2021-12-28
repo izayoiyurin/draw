@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T08:37:18.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="gJb6YasJh_-4WXloJSQw" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T08:38:12.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UTT-YDj1WLNeVHtBoyow" version="16.0.3" type="github">
   <diagram id="OImLd2vPb11QdsrP65Wm" name="第 1 页">
-    <mxGraphModel dx="1100" dy="143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1504" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8BJoEMS6qaiRQmrCONaO-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="230" y="700" width="30" height="30" as="geometry" />
+          <mxGeometry x="230" y="760" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8BJoEMS6qaiRQmrCONaO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8BJoEMS6qaiRQmrCONaO-4" target="8BJoEMS6qaiRQmrCONaO-7">
           <mxGeometry relative="1" as="geometry" />
@@ -91,7 +91,12 @@
             <mxPoint x="130" y="630" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8BJoEMS6qaiRQmrCONaO-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8BJoEMS6qaiRQmrCONaO-47" target="8BJoEMS6qaiRQmrCONaO-3">
+        <mxCell id="8BJoEMS6qaiRQmrCONaO-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8BJoEMS6qaiRQmrCONaO-75" target="8BJoEMS6qaiRQmrCONaO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="750" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BJoEMS6qaiRQmrCONaO-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8BJoEMS6qaiRQmrCONaO-47" target="8BJoEMS6qaiRQmrCONaO-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8BJoEMS6qaiRQmrCONaO-47" value="广告创建成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -137,6 +142,9 @@
         </mxCell>
         <mxCell id="8BJoEMS6qaiRQmrCONaO-67" value="缴费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42.5" y="580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8BJoEMS6qaiRQmrCONaO-75" value="发布广告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="700" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
