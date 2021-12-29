@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T01:17:09.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="vA8T0ypJWSL_gtifRRXW" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T01:17:45.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="vC3Q5l-DPuaqSGA_C9Ci" version="16.1.0" type="github">
   <diagram id="xYStJwmK1WK38y2M58dQ" name="第 1 页">
-    <mxGraphModel dx="1396" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,8 +47,14 @@
         <mxCell id="amVGUFOgUeJcUxhuILSb-13" value="DataBase" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#8FFF96;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XPk-Mi0HIh_9k4ERCayW-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XPk-Mi0HIh_9k4ERCayW-1" target="XPk-Mi0HIh_9k4ERCayW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XPk-Mi0HIh_9k4ERCayW-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" vertex="1" parent="1">
-          <mxGeometry x="-350" y="740" width="50" height="83.33" as="geometry" />
+          <mxGeometry x="-360" y="730" width="50" height="83.33" as="geometry" />
+        </mxCell>
+        <mxCell id="XPk-Mi0HIh_9k4ERCayW-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.033;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XPk-Mi0HIh_9k4ERCayW-4" target="XPk-Mi0HIh_9k4ERCayW-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XPk-Mi0HIh_9k4ERCayW-4" value="Web端" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
           <mxGeometry x="-430" y="990" width="50" height="45" as="geometry" />
@@ -92,6 +98,9 @@
         <mxCell id="XPk-Mi0HIh_9k4ERCayW-13" value="计费服务" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.cluster_server" vertex="1" parent="1">
           <mxGeometry x="80" y="980" width="60" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="XPk-Mi0HIh_9k4ERCayW-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.119;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XPk-Mi0HIh_9k4ERCayW-14" target="XPk-Mi0HIh_9k4ERCayW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XPk-Mi0HIh_9k4ERCayW-14" value="前台页面" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.cluster_server" vertex="1" parent="1">
           <mxGeometry x="-300" y="940" width="60" height="75" as="geometry" />
         </mxCell>
@@ -103,6 +112,9 @@
         </mxCell>
         <mxCell id="XPk-Mi0HIh_9k4ERCayW-17" value="Rest&amp;nbsp;API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="20" y="1002.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XPk-Mi0HIh_9k4ERCayW-25" value="Rest&amp;nbsp;API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="857.5" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
