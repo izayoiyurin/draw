@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T06:59:43.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bdrpbE2cKgty7IAw7lRH" version="16.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-30T07:00:33.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="9vT9kOfgHq6JDp-j72AK" version="16.1.0" type="github" pages="3">
   <diagram id="OJo1rJha647UaZP5pxn6" name="推广计划与创意对应图">
     <mxGraphModel dx="791" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,6 +269,12 @@
         </mxCell>
         <mxCell id="QyHGEDIJ2kQRt_uwKuS6-14" value="检索广告(分布式搜索)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=middle;horizontal=1;" vertex="1" parent="QyHGEDIJ2kQRt_uwKuS6-1">
           <mxGeometry x="310" y="360" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QyHGEDIJ2kQRt_uwKuS6-15" value="广告排序" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=middle;horizontal=1;" vertex="1" parent="QyHGEDIJ2kQRt_uwKuS6-1">
+          <mxGeometry x="360" y="360" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QyHGEDIJ2kQRt_uwKuS6-16" value="广告曝光检测/数据统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=middle;horizontal=1;" vertex="1" parent="QyHGEDIJ2kQRt_uwKuS6-1">
+          <mxGeometry x="414" y="360" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
